@@ -1,6 +1,6 @@
 body{
 	background-color:#1B64A8;
-	color: #FFFFFF
+	color: #FFFFFF;
 }
 header{
 	background-color: #2A8EB5;
@@ -78,7 +78,7 @@ color: black;
 grid-template-columns: 1fr 1fr;
 }
 	*/
-a{ color: #FFFFFF
+a{ color: #FFFFFF;
 }
 
 h1 {
@@ -125,7 +125,7 @@ margin-top: 150px;
 	transform: translate(2rem, 0);
 }
 .education button{
-transition: .1s ease-in-out
+transition: .1s ease-in-out;
 }
 .education button:hover {
 transform: scale(1.1);

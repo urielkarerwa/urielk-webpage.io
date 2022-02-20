@@ -1,6 +1,6 @@
 body{
 	background-color:#1B64A8;
-	color: #FFFFFF
+	color: #FFFFFF;
 }
 header{
 	background-color: #2A8EB5;
@@ -78,7 +78,7 @@ color: black;
 grid-template-columns: 1fr 1fr;
 }
 	*/
-a{ color: #FFFFFF
+a{ color: #FFFFFF;
 }
 
 h1 {
