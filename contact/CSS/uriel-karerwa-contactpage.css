@@ -15,10 +15,7 @@ header{
 	top: 10px;
 	width: 95%;
 	z-index: 1;
-	/*position: -moz-sticky;
-	position: -webkit-sticky;
-	position: -o-sticky;
-	position: -ms-sticky;*/
+
 }
 header h3 {
 	font-family: Garamond, serif;
@@ -69,15 +66,7 @@ alternative way of creating an equal width links menu below*/
 .navbar a:active{
 	background-color: #0A143D;
 }
-/*.navbar a:visited{
-text-decoration: normal;
-color: black;
-}*/
-/*  main {
-	display: grid;
-grid-template-columns: 1fr 1fr;
-}
-	*/
+
 a{ color: #FFFFFF;
 }
 

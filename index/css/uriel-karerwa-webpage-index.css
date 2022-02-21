@@ -15,38 +15,12 @@ header{
 	top: 10px;
 	width: 95%;
 	z-index: 1;
-	/*position: -moz-sticky;
-	position: -webkit-sticky;
-	position: -o-sticky;
-	position: -ms-sticky;*/
 }
 header h3 {
 	font-family: Garamond, serif;
 	font-style: oblique;
 	text-align: center;
 }
-/*nav ul{
-  list-style: none;
-  margin: 0 2px;
-  padding: 0;
-  padding-top: 10px;
-  display: flex;
-  justify-content: space-around;
-}
-nav li {
-   display: flex items;
-   padding: 5px 5px;
-}
-
-nav a {
-  font-weight: normal;
-  padding: 10px 5px;
-  text-decoration: none;
-}
-nav a:hover{
-	background-color: #0A143D;
-}
-alternative way of creating an equal width links menu below*/
 
 .navbar{
 	overflow: auto;
@@ -54,7 +28,7 @@ alternative way of creating an equal width links menu below*/
 	background-color: #2A8EB5;
 	border-radius:  5%;
 }
-/* Find a way to round corners of the last two links in the navbar with border radius*/
+/* Find a way to round corners of the first and last links in the navbar with border radius*/
 .navbar a:link{
 	float: left;
 	text-decoration: none;
@@ -69,15 +43,7 @@ alternative way of creating an equal width links menu below*/
 .navbar a:active{
 	background-color: #0A143D;
 }
-/*.navbar a:visited{
-text-decoration: normal;
-color: black;
-}*/
-/*  main {
-	display: grid;
-grid-template-columns: 1fr 1fr;
-}
-	*/
+
 a{ color: #FFFFFF;
 }
 
@@ -187,11 +153,6 @@ float: right;
 	z-index: 1;
 }
 	
-/*
-.tedtalk span{
-	font-style: italic;
-}
-*/
 .radio>p{ grid-area:paragraphr;
 }
 .radio>ul{ grid-area:listr;
@@ -242,14 +203,7 @@ text-align: center;}
 .radio:hover{
 	transform: translate(2rem, 0);
 }
-/*
-.radiohide{
-	visibility: hidden;
-}
-.radiohide:active {
-	visibility: visible;
-}
-*/
+
 .psych-love{clear: both;
 border: inset 7.5px;
 border-radius: 25px;
